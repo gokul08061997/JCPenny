@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121432" started-at="2019-12-04T11:28:02Z" finished-at="2019-12-04T11:30:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121432" started-at="2019-12-04T11:28:02Z" finished-at="2019-12-04T11:30:04Z">
+      <class name="org.sample.Executive">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.sample.Executive@4edc67]" name="launch" is-config="true" duration-ms="7444" started-at="2019-12-04T11:28:02Z" finished-at="2019-12-04T11:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.Executive@4edc67]" name="startTime" is-config="true" duration-ms="5" started-at="2019-12-04T11:28:10Z" finished-at="2019-12-04T11:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="product1()[pri:0, instance:org.sample.Executive@4edc67]" name="product1" duration-ms="113893" started-at="2019-12-04T11:28:10Z" finished-at="2019-12-04T11:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.Executive@4edc67]" name="endTime" is-config="true" duration-ms="0" started-at="2019-12-04T11:30:04Z" finished-at="2019-12-04T11:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.sample.Executive -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
